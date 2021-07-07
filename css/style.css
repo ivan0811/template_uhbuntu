@@ -229,3 +229,60 @@ body{
     height: 24px;
     display: block;       
 }
+
+.bg-before-login-detail{
+    background-color: #5E93D1;    
+    height: 226px;
+}
+
+.detail-before-login1{
+    background-image: url(/img/robot_frame_before_login1.png);
+    width: 147px;
+    height: 191px;    
+    margin-top: 9px;
+    margin-top: 34px;
+}
+
+.detail-before-login2{
+    background-image: url(/img/robot_frame_before_login2.png);
+    width: 96px;
+    height: 189px;    
+    margin-top: 37px;      
+    margin-right: 40px;
+}
+
+.text-before-login-answer{
+    width: max-content;
+}
+
+.text-before-login-answer > p{
+    color: #FFFFFF;    
+}
+
+.text-before-login-answer > p:nth-child(1){
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 36px;    
+    margin: 0 0 10px 0 ;
+}
+
+.text-before-login-answer > p:nth-child(2){    
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.btn-masuk{
+    height: 56px;
+    width: 144px;
+    font-size: 18px !important;
+}
+
+a.btn.btn-before-login-answer{    
+    height: 56px;
+    width: 144px;
+    padding-top: 14px;
+    font-size: 18px !important;    
+    color: #5E93D1;   
+    background-color: #fff;
+}
